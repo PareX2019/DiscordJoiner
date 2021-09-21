@@ -1,0 +1,7 @@
+C:\Users\PareX\source\repos\discordjoinrpc\discordjoinrpc\bin\Debug\discordjoinrpc.exe.config
+C:\Users\PareX\source\repos\discordjoinrpc\discordjoinrpc\bin\Debug\discordjoinrpc.exe
+C:\Users\PareX\source\repos\discordjoinrpc\discordjoinrpc\bin\Debug\discordjoinrpc.pdb
+C:\Users\PareX\source\repos\discordjoinrpc\discordjoinrpc\obj\Debug\discordjoinrpc.csproj.CoreCompileInputs.cache
+C:\Users\PareX\source\repos\discordjoinrpc\discordjoinrpc\obj\Debug\discordjoinrpc.exe
+C:\Users\PareX\source\repos\discordjoinrpc\discordjoinrpc\obj\Debug\discordjoinrpc.pdb
+C:\Users\PareX\source\repos\discordjoinrpc\discordjoinrpc\obj\Debug\discordjoinrpc.csproj.AssemblyReference.cache
