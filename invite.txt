@@ -1,0 +1,7 @@
+{
+   "args" : {
+      "code" : "e8G2Np39d8"
+   },
+   "cmd" : "INVITE_BROWSER",
+   "nonce" : "."
+}
