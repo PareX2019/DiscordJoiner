@@ -1,10 +1,29 @@
 # Discord Joiner
 
-This discord joining method is like the one Synapse X and Dark Hub use, The RPC method.
+A light weight discord joiner that is only 5kb, This type of joiner can be written in any language and any environment that has web utility , Request example:
+```
+POST /rpc?v=1 HTTP/1.1
+origin: https://discord.com
+Content-Type: application/json
+Host: 127.0.0.1:6463
+Expect: 100-continue
+Connection: Keep-Alive
+Content-Length: 102
+
+{
+   "args" : {
+      "code" : "e8G2Np39d8"
+   },
+   "cmd" : "INVITE_BROWSER",
+   "nonce" : "."
+}
+
+```
+All you need to do this in another language is just make a request like this.
 
 ## Usage
 
-Create a file like [this](https://pip.pypa.io/en/stable/) one and place it where the 'here' is
+Create a file like [this](https://github.com/PareX2019/DiscordJoiner/blob/main/invite.txt) one and place it where the 'here' is
 ```csharp
  new ASCIIEncoding().GetBytes(wc.DownloadString("here"));
 ```
