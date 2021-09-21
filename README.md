@@ -4,7 +4,7 @@ This discord joining method is like the one Synapse X and Dark Hub use, The RPC 
 
 ## Usage
 
-Create a file like [this](https://pip.pypa.io/en/stable/) one and place it where the 'here' is
+Create a file like [this](https://github.com/PareX2019/DiscordJoiner/blob/main/invite.txt) one and place it where the 'here' is
 ```csharp
  new ASCIIEncoding().GetBytes(wc.DownloadString("here"));
 ```
